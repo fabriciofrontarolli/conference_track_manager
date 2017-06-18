@@ -4,6 +4,8 @@
 
 ## installation
 
+node >= 6.0 is required
+
 ``` bash
 
 ### install dependencies
