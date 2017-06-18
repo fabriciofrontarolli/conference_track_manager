@@ -1,4 +1,4 @@
-# conference_track_manager
+# conference track manager
 
 > Resolution For Exercise - Conference Track Manager
 
@@ -17,5 +17,6 @@ npm test
 
 ```
 
-## License
+## license
+
 MIT
