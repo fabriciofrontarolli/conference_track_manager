@@ -4,7 +4,7 @@
 
 ## installation
 
-node >= 6.0 is required
+node >= 6.4.0 is required
 
 ``` bash
 
