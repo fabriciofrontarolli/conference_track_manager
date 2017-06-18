@@ -1,0 +1,64 @@
+{
+  "seed": [
+    {
+      "title": "Writing Fast Tests Against Enterprise Rails",
+      "time": 180
+    },
+    {
+      "title": "Overdoing it in Python",
+      "time": 240
+    }, {
+      "title": "Lua for the Masses",
+      "time": 180
+    }, {
+      "title": "Ruby Errors from Mismatched Gem Versions",
+      "time": 240
+    }
+  ],
+  "expected": {
+      "track1": [
+          {
+              "start": "9:00 AM",
+              "title": "Writing Fast Tests Against Enterprise Rails",
+              "duration": 180
+          },
+          {
+              "start": "12:00 PM",
+              "title": "Lunch",
+              "duration": 60
+          },
+          {
+              "start": "1:00 PM",
+              "title": "Overdoing it in Python",
+              "duration":240
+          },
+          {
+              "start": "5:00 PM",
+              "title": "Networking Event",
+              "duration": 60
+          }
+      ],
+      "track2": [
+        {
+            "start": "9:00 AM",
+            "title": "Lua for the Masses",
+            "duration": 180
+        },
+        {
+            "start": "12:00 PM",
+            "title": "Lunch",
+            "duration": 60
+        },
+        {
+            "start": "1:00 PM",
+            "title": "Ruby Errors from Mismatched Gem Versions",
+            "duration":240
+        },
+        {
+            "start": "5:00 PM",
+            "title": "Networking Event",
+            "duration": 60
+        }
+      ]
+  }
+}

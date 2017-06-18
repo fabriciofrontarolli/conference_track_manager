@@ -1,0 +1,16 @@
+{
+  "name": "track_manager_assessment",
+  "version": "1.0.0",
+  "description": "A project containing resolution for a Conference Talks Track Allocation problem",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run test",
+    "test": "mocha"
+  },
+  "author": "Fabricio Frontarolli <fabricio.frontarolli@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
